@@ -1,6 +1,6 @@
 courseName: Course1 z52
 description: this is a test course for demo
-isPremium: true
+isPremium: false
 complexity: beginner
 categories:
 - golang
