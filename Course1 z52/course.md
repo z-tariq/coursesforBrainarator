@@ -1,4 +1,4 @@
-courseName: Course1 z52
+courseName: Course1 Z52
 description: this is a test course for demo
 isPremium: false
 complexity: beginner
