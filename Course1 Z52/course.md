@@ -1,5 +1,5 @@
 courseName: Course1 Z52
-description: this is a test course for demo
+description: this is a test course for demo update des
 isPremium: false
 complexity: beginner
 categories:
