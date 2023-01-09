@@ -1,4 +1,4 @@
-courseName: Course2 BrUser
+courseName: Course2 Br User
 description: this is a test course for demo update des
 isPremium: false
 complexity: beginner
