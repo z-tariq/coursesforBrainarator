@@ -3,6 +3,6 @@ description: this is a test course for demo
 isPremium: false
 complexity: beginner
 categories:
-- golang
+- docker
 isAvailable: true
 learningPaths: []
