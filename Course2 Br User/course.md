@@ -1,6 +1,6 @@
 courseName: Course2 Br User
-description: this is a test course for demo purpose only
-isPremium: true
+description: this is a test course for demo purpose only qazxsw
+isPremium: true 
 isAvailable: true
 complexity: beginner
 categories:
