@@ -1,6 +1,7 @@
 courseName: Course2 Br User
 description: this is a test course for demo purpose only
 isPremium: true
+isAvailable: false
 complexity: beginner
 categories:
 - golang
