@@ -8,4 +8,5 @@ price:
   currency : USD
   value : 230 
 isAvailable: true
-learningPaths: []
+learningPaths:
+- Br Lp 1
