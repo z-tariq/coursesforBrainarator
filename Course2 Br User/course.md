@@ -5,7 +5,7 @@ complexity: beginner
 categories:
 - golang
 price: 
-{ currency : USD
-  value : 230 }
+  currency : USD
+  value : 230 
 isAvailable: true
 learningPaths: []
