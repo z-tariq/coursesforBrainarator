@@ -7,3 +7,4 @@ isAvailable: true
 isNew: true
 categories:
   - docker
+  - golang
