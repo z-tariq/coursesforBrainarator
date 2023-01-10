@@ -3,6 +3,7 @@ description: This is basic lp for demo
 scenarios: []
 scenarioCount : 0
 isPremium: true
+isAvailable: true
 isNew: true
 categories:
   - golang
