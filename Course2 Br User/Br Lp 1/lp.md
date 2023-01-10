@@ -6,5 +6,4 @@ isPremium: true
 isAvailable: true
 isNew: true
 categories:
-  - docker
   - golang
