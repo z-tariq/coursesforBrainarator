@@ -8,6 +8,5 @@ categories:
 price: 
   currency : USD
   value : 230 
-isAvailable: true
 learningPaths:
 - Br Lp 1
